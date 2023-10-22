@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650077864825",
+    "project_id": "cartainc-2cac0",
+    "storage_bucket": "cartainc-2cac0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650077864825:android:47dba3f80a7f69bdb6a5a8",
+        "android_client_info": {
+          "package_name": "com.example.carta_inc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsO2i3ULCLIjldhqoQgj6VZErNTmEqKZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
